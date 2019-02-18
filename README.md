@@ -159,12 +159,12 @@ Kemudian, item pertama dalam urutan ditugaskan ke variabel iterating iterating_v
 Setiap item dalam daftar ditugaskan ke iterating_var , dan blok pernyataan dieksekusi sampai seluruh urutan habis.
 
 
+# If
 
 ![alt text](333.png)
 
 
 
-# If
 
 
 
